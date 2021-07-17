@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="image_poster" type="id" />
+    <item name="text_title" type="id" />
+    <item name="text_date" type="id" />
+    <item name="btn_start" type="id" />
+    <item name="text_desc" type="id" />
+    <item name="text_description" type="id" />
+    <item name="text_list_module" type="id" />
+    <item name="rv_module" type="id" />
+    <item name="progress_bar" type="id" />
+</resources>
